@@ -67,3 +67,9 @@ while True:
 
     else:
         print("Pilihan tidak valid!")
+## hasil
+
+<img width="1918" height="1078" alt="Screenshot 2025-12-06 192232" src="https://github.com/user-attachments/assets/0a76d13c-b7d6-47eb-a6ee-06ceda8a90b8" />
+<img width="1917" height="477" alt="Screenshot 2025-12-06 192253" src="https://github.com/user-attachments/assets/90bc0b3b-727d-4748-b795-81f002f8747a" />
+<img width="1919" height="407" alt="Screenshot 2025-12-06 192313" src="https://github.com/user-attachments/assets/33d8bcd1-b22f-4bd5-b0fe-941f20227dff" />
+<img width="1918" height="1074" alt="Screenshot 2025-12-06 192419" src="https://github.com/user-attachments/assets/74d65112-6aca-4943-88a2-456f34b2f28d" />
