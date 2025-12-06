@@ -1,5 +1,5 @@
 
-## praktikum-8
+## praktikum-7
 ```
 ## program sederhana menampilkan daftar nilai mahasiswa
 
